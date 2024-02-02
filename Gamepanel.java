@@ -1,6 +1,6 @@
 package Chess;
 //THis is genreal insite of GAme Screen;
-//
+
 
 import javax.swing.JPanel;
 
